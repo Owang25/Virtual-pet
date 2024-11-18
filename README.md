@@ -1,3 +1,1 @@
-# Virtual-pet
-# Virtual-pet
-# Virtual-pet
+# Virtual-pet project for CS2 at Bay
