@@ -1,11 +1,11 @@
 {
     "name": "Goober",
-    "hunger": -12,
+    "hunger": 0,
     "tired": false,
     "clean": true,
-    "unconscious": true,
+    "unconscious": false,
     "living": true,
-    "energy": 98,
-    "joy": 176,
+    "energy": 100,
+    "joy": 50,
     "dirt": 0
 }
